@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CreateReact/static/css/main.b8c9bcb7.css",
+    "main.js": "/CreateReact/static/js/main.3319f7b0.js",
+    "static/media/RemoteStaffing.jpg": "/CreateReact/static/media/RemoteStaffing.6e28a73cf122dd938d74.jpg",
+    "static/media/Remote.png": "/CreateReact/static/media/Remote.022761f2ab9d74a1cd85.png",
+    "static/media/AndroidIos.jpg": "/CreateReact/static/media/AndroidIos.0a236d7447703d768907.jpg",
+    "static/media/bg-home.jpg": "/CreateReact/static/media/bg-home.9c26f1ce927cebb26cc0.jpg",
+    "static/media/estados-unidos.png": "/CreateReact/static/media/estados-unidos.a1fc118ed9c993844853.png",
+    "static/media/costa-rica.png": "/CreateReact/static/media/costa-rica.21a5de72823e89edb5ce.png",
+    "index.html": "/CreateReact/index.html",
+    "static/media/getFetch.cjs": "/CreateReact/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.b8c9bcb7.css.map": "/CreateReact/static/css/main.b8c9bcb7.css.map",
+    "main.3319f7b0.js.map": "/CreateReact/static/js/main.3319f7b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8c9bcb7.css",
+    "static/js/main.3319f7b0.js"
+  ]
+}
